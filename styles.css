@@ -58,3 +58,11 @@ button:active {
     text-align: center;
     width: 100%;
 }
+.top{
+    color: #FFFFFF;
+    padding-bottom: 10px;
+}
+img{
+    margin-bottom: 5px;
+    float: left;
+}
