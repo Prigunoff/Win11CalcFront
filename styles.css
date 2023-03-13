@@ -55,4 +55,6 @@ button:active {
 }
 .bblue{
     background-color: #0066FF;
+    text-align: center;
+    width: 100%;
 }
